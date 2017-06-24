@@ -5,3 +5,4 @@
 
 
 ---?include=test.md
+---?include=test2.md
