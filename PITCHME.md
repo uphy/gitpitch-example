@@ -1,5 +1,9 @@
 # My Presentation
 
+---
+
+# Code Example
+
 ```go
 package "main"
 
