@@ -1,3 +1,1 @@
-### こんにちは！
-
----?include=/test.md
+---?include=test.md
