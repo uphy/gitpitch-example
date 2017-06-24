@@ -4,9 +4,7 @@
 これはサンプルのスライド資料です。
 
 ### test
-
-hello
+---?include=test.md
 
 ### test2
-
-hoge
+---?include=test2.md
