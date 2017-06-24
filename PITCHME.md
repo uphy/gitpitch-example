@@ -2,7 +2,7 @@
 
 ---
 
-# Code Example
+## Code Example
 
 ```go
 package "main"
@@ -19,22 +19,22 @@ func SayHello(){
 
 ---
 
-# List
+## List Example
 
-- a
-- b
-- c
+- item1
+- item2
+- item3
 
 ---
 
-# Vertical
+## Vertical Example
 
 asdfasfsaf
 
 +++
 
-## aiueo
+### aiueo
 
 +++
 
-## kakikukeko
+### kakikukeko
